@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Johnson",
+        "subject": "Physics",
+        "stars": 4,
+        "review": "Dr. Johnson is an excellent lecturer who makes complex concepts easy to understand. Her enthusiasm for physics is contagious."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Prof. Chen is incredibly knowledgeable and always available for extra help. His programming assignments are challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Sarah Martinez",
+        "subject": "Biology",
+        "stars": 3,
+        "review": "Dr. Martinez knows her subject well, but her lectures can be dry at times. The lab work is interesting and hands-on."
+      },
+      {
+        "professor": "Prof. David Thompson",
+        "subject": "History",
+        "stars": 2,
+        "review": "Prof. Thompson's lectures are disorganized and hard to follow. However, his reading list is excellent and provides good insights into historical events."
+      },
+      {
+        "professor": "Dr. Olivia Parker",
+        "subject": "Psychology",
+        "stars": 5,
+        "review": "Dr. Parker is an outstanding professor. Her lectures are engaging, and she incorporates real-world examples that make the material relatable and easy to grasp."
+      },
+      {
+        "professor": "Prof. Robert Lee",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Lee's problem-solving approach is methodical and clear. He's patient with students and provides ample practice opportunities."
+      },
+      {
+        "professor": "Dr. Amanda Foster",
+        "subject": "English Literature",
+        "stars": 5,
+        "review": "Dr. Foster's passion for literature is inspiring. Her discussions are thought-provoking and she encourages creative interpretations."
+      },
+      {
+        "professor": "Prof. Carlos Ramirez",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Prof. Ramirez is knowledgeable but can be intimidating. His exams are extremely difficult, though he does curve generously."
+      },
+      {
+        "professor": "Dr. Rachel Green",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. Green brings current environmental issues into the classroom, making the course very relevant. Field trips are a highlight."
+      },
+      {
+        "professor": "Prof. Alan Turing",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Prof. Turing is a legend in the field. His insights are invaluable and he challenges students to think outside the box."
+      },
+      {
+        "professor": "Dr. Maria Gonzalez",
+        "subject": "Sociology",
+        "stars": 4,
+        "review": "Dr. Gonzalez facilitates great class discussions and encourages students to apply sociological concepts to current events."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Economics",
+        "stars": 2,
+        "review": "Prof. Wilson's lectures are monotonous and he relies too heavily on the textbook. However, his office hours are helpful."
+      },
+      {
+        "professor": "Dr. Lisa Campbell",
+        "subject": "Art History",
+        "stars": 5,
+        "review": "Dr. Campbell's lectures are like guided tours through art museums. Her enthusiasm for the subject is infectious."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Kim presents balanced viewpoints on political issues. However, his assignments can be vague and hard to interpret."
+      },
+      {
+        "professor": "Dr. Elizabeth Taylor",
+        "subject": "Neuroscience",
+        "stars": 4,
+        "review": "Dr. Taylor's research experience adds depth to her lectures. The course is challenging but she provides excellent study resources."
+      },
+      {
+        "professor": "Prof. Thomas Brown",
+        "subject": "Philosophy",
+        "stars": 5,
+        "review": "Prof. Brown's Socratic method of teaching really makes you think. He challenges assumptions and encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Laura White",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. White explains concepts clearly but moves through material very quickly. Her practice problems are helpful for exam preparation."
+      },
+      {
+        "professor": "Prof. Richard Garcia",
+        "subject": "Marketing",
+        "stars": 4,
+        "review": "Prof. Garcia brings real-world marketing experience to the classroom. Group projects are practical and relevant to current trends."
+      },
+      {
+        "professor": "Dr. Samantha Lee",
+        "subject": "Anthropology",
+        "stars": 5,
+        "review": "Dr. Lee's fieldwork stories bring anthropology to life. She creates an inclusive classroom environment and encourages diverse perspectives."
+      },
+      {
+        "professor": "Prof. William Turner",
+        "subject": "Mechanical Engineering",
+        "stars": 2,
+        "review": "Prof. Turner is brilliant but struggles to explain complex concepts. Labs are well-equipped but instructions are often unclear."
+      }
+    ]
+  }
